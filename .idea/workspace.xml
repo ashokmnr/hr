@@ -20,10 +20,23 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5f31924f-9fd5-44f3-8c24-f4161b59ab2f" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/hr.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/hr.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/setup.py" beforeDir="false" afterPath="$PROJECT_DIR$/setup.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/hr/__init__py" beforeDir="false" afterPath="$PROJECT_DIR$/src/hr/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/list/bin/activate" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/list/bin/activate.csh" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/list/bin/activate.fish" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/list/bin/activate.ps1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/list/bin/activate.xsh" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/list/bin/activate_this.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/list/bin/easy_install" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/list/bin/easy_install-3.8" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/list/bin/pip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/list/bin/pip3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/list/bin/pip3.8" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/list/bin/python" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/list/bin/python-config" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/list/bin/python3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/list/bin/python3.8" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/list/bin/wheel" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/list/include/python3.8" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
