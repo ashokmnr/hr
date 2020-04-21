@@ -1,5 +1,7 @@
 from setuptools import setup, find_packages
 
+from setuptools import setup, find_packages
+
 with open('README.rst', 'r') as f:
     readme = f.read()
 
@@ -12,5 +14,8 @@ setup(
     author_email='ashokmnr160@gmail.com',
     packages=find_packages('src'),
     package_dir={'': 'src'},
-    install_requires=[]
+    install_requires=[],
+    entry_points={
+        'console_scripts': 'hr=hr.cli:main',
+    },
 )
